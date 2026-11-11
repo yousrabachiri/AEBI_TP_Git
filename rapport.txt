@@ -1,1 +1,7 @@
 Dans cette branche, nous avons appris à modifier un fichier avec Git.
+
+Mon projet personnel consiste à développer une idée
+biotechnologique visant à utiliser des micro-organismes
+pour réduire la pollution de l'environnement.
+Git permettra de suivre et de conserver les modifications
+apportées à ce projet.
