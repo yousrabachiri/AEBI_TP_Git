@@ -1,7 +1,9 @@
-Dans cette branche, nous avons appris à modifier un fichier avec Git.
+Dans ce TP, nous avons appris à utiliser Git et GitHub pour gérer les versions des projets.
+Git permet de suivre les modifications et de conserver l'historique des fichiers.
+GitHub permet de stocker les projets en ligne et de faciliter le travail collaboratif.
+Nous avons appris à créer un dépôt, à le cloner et à utiliser les commandes Git.
+Nous avons appris à ajouter des fichiers, faire des commits et envoyer les modifications vers GitHub.
+Enfin, nous avons découvert les branches pour organiser le travail.
 
-Mon projet personnel consiste à développer une idée
-biotechnologique visant à utiliser des micro-organismes
-pour réduire la pollution de l'environnement.
-Git permettra de suivre et de conserver les modifications
-apportées à ce projet.
+Mon projet biotechnologique consiste à utiliser des micro-organismes pour réduire la pollution de l'environnement.
+Git permettra de suivre et de conserver les modifications apportées à ce projet.
