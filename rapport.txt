@@ -1,6 +1,1 @@
-Dans ce TP, nous avons appris à utiliser Git et GitHub pour gérer les versions des projets.
-Git permet de suivre les modifications et de conserver l'historique des fichiers.
-GitHub permet de stocker les projets en ligne et de faciliter le travail collaboratif.
-Nous avons appris à créer un dépôt, à le cloner et à utiliser les commandes Git.
-Nous avons également appris à ajouter des fichiers, à faire des commits et à envoyer les modifications vers GitHub.
-Enfin, nous avons découvert la création et l'utilisation des branches pour organiser le travail.
+Dans cette branche, nous avons appris à modifier un fichier avec Git.
